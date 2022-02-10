@@ -14,7 +14,7 @@ $row=mysqli_fetch_array($result);
 <body>
 <div class="form-wrapper"> 
     <center><h3>Welcome: <?php echo $row['name']; ?> </h3></center>
-    <p>this is testing</p>hello world
+    <p>this is testing</p>hello world after local set
 	 <div class="reminder">
     <p><a href="logout.php">Log out</a></p>
   </div>
