@@ -16,6 +16,7 @@ $row=mysqli_fetch_array($result);
   <p>ganagavathy</p>
 
   <p>commit 1 from ganagavathy</p>
+  <p>commit 1 from Divya</p>
     <center><h3>Welcome: <?php echo $row['name']; ?> </h3></center>
     <p>this is testing</p>hello world after local set dddd
 	 <div class="reminder">
